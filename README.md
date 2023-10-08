@@ -5,3 +5,5 @@ Hello there! I'm Sérgio, a dedicated computer engineering student with nearly a
 As you explore my repositories, please don't hesitate to share your feedback or collaborate on intriguing projects. Your visit is greatly appreciated!
 
 Now let's code! :punch: :rocket:
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobeltrao&layout=compact)
