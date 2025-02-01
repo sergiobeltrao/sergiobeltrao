@@ -1,5 +1,5 @@
-# Welcome to My GitHub!
+# Welcome
 
-Hello there! I'm Sérgio, a dedicated computer engineering student with nearly a decade of experience in the IT field. I have a strong passion for Linux and networking, and I'm excited to share my projects and contributions here on GitHub.
+Hi, my name is Sérgio. Currently, I'm a Computer Engineering student with nearly a decade of experience in the IT field. I have a strong passion for Linux and networking, and here I will share my projects and contributions.
 
 Now let's code! :punch: :rocket:
